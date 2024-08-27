@@ -66,33 +66,33 @@
   ],
   "Services": [{
       "icon": "fa fa-wordpress",
-      "name": "WordPress",
-      "text": "Is a popular open-source content management system (CMS) that allows users to create, manage, and publish websites and blogs easily."
+      "name": "Web development",
+      "text": "Our company offers full-spectrum web development services, providing custom, scalable, and secure web solutions tailored to meet your business needs. Whether you’re a startup, a growing business, or an established enterprise, we create websites and web applications that not only look great but also perform flawlessly, delivering an exceptional user experience"
     },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Website SEO Optimization",
-      "text": "Website SEO Optimization is the process of improving the quality and quantity of website traffic by increasing the visibility of a website to users of a web search engine."
+      "text": "Our company provides comprehensive SEO (Search Engine Optimization) services designed to enhance your website's visibility, drive organic traffic, and boost your search engine rankings."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Cloud Hosting",
-      "text": " It refers to hosting websites or applications on a network of virtual servers that pull their computing resources from a broad underlying network of physical servers."
+      "name": "React Vue Angular",
+      "text": "Our comprehensive JavaScript framework and library development services encompass React, Vue.js, and Angular, offering tailored solutions to meet your business's unique needs. "
     },
     {
       "icon": "fa fa-language",
-      "name": "Web Development",
-      "text": "Web development involves building, creating, and maintaining websites. It includes aspects like web design, web publishing, web programming, and database management."
+      "name": "Landing page development for your business",
+      "text": "Our company specializes in creating high-converting landing pages that are tailored to meet your specific business goals. Whether you’re looking to generate leads, promote a product, or drive sign-ups, our expertly designed landing pages are crafted to capture your audience’s attention and compel them to take action. Our services include"
     },
     {
       "icon": "fa fa-plane",
       "name": "Website Hosting",
-      "text": "Website Hosting is a service that allows organizations and individuals to post a website or web page onto the internet. It provides the technologies needed for the website to be viewed online."
+      "text": "Our company provides reliable and secure website hosting services designed to ensure your online presence is always accessible, fast, and secure. Whether you’re running a small business website, an e-commerce platform."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Website Monetization",
-      "text": "Website Monetization is the process of earning revenue from a website by converting existing traffic into revenue through various methods like ads, affiliate marketing, and subscriptions."
+      "name": "Website Security",
+      "text": "As a leading provider of comprehensive website security solutions, our company ensures that your online presence is fully protected against cyber threats. Our services are designed to safeguard your website, data, and customers through a multi-layered approach that addresses all aspects of digital security."
     }
   ],
   "Testimonials": [{
@@ -148,7 +148,7 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Poland, ul, Swieradowska 46, 02-662 ",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",
