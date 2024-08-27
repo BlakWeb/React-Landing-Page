@@ -67,7 +67,7 @@
   "Services": [{
       "icon": "fa fa-wordpress",
       "name": "Web development",
-      "text": "Our company offers full-spectrum web development services, providing custom, scalable, and secure web solutions tailored to meet your business needs. Whether you’re a startup, a growing business, or an established enterprise, we create websites and web applications that not only look great but also perform flawlessly, delivering an exceptional user experience"
+      "text": "Our company offers full-spectrum web development services, providing custom, scalable, and secure web solutions tailored to meet your business needs."
     },
     {
       "icon": "fa fa-cart-arrow-down",
@@ -82,7 +82,7 @@
     {
       "icon": "fa fa-language",
       "name": "Landing page development for your business",
-      "text": "Our company specializes in creating high-converting landing pages that are tailored to meet your specific business goals. Whether you’re looking to generate leads, promote a product, or drive sign-ups, our expertly designed landing pages are crafted to capture your audience’s attention and compel them to take action. Our services include"
+      "text": "Our company specializes in creating high-converting landing pages that are tailored to meet your specific business goals. Whether you’re looking to generate leads, promote a product, or drive sign-ups."
     },
     {
       "icon": "fa fa-plane",
@@ -92,7 +92,7 @@
     {
       "icon": "fa fa-pie-chart",
       "name": "Website Security",
-      "text": "As a leading provider of comprehensive website security solutions, our company ensures that your online presence is fully protected against cyber threats. Our services are designed to safeguard your website, data, and customers through a multi-layered approach that addresses all aspects of digital security."
+      "text": "As a leading provider of comprehensive website security solutions, our company ensures that your online presence is fully protected against cyber threats. Our services are designed to safeguard your website, data, and customers through a multi-layered approach."
     }
   ],
   "Testimonials": [{
